@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pierre.beylard@hotmail.fr
+	name = pierre beylard
